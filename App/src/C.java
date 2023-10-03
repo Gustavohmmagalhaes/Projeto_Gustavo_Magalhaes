@@ -1,7 +1,7 @@
 public class C {
 
-    private String C1;
-    private int C2;
+    String C1;
+    int C2;
 
     public void MC1() {
         System.out.println("MC1");
