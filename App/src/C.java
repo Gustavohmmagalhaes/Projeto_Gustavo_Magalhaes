@@ -7,6 +7,7 @@ public class C {
         System.out.println("MC1");
     }
 
+    
     public void MC2() {
         System.out.println("MC2");
     }
