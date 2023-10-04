@@ -24,6 +24,9 @@ public class D {
         D2 = d2;
     };
 
+    public void MD3(){
+        System.out.println("MD3");
+    }
     
     
 }
